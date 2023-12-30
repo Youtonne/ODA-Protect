@@ -1,0 +1,16 @@
+/////////////////////////////////////////////////////////////////////////
+
+"/ban" est une mesure de modération puissante utilisée pour exclure temporairement ou définitivement
+un utilisateur d'une plateforme en ligne en réponse à des violations sérieuses des règles ou à des comportements inappropriés.
+
+/////////////////////////////////////////////////////////////////////////
+
+Command: 
+
+- /ban "membre" "raison"
+
+/////////////////////////////////////////////////////////////////////////
+
+permission:
+
+- Discord.PermissionFlagsBits.BanMembers,
