@@ -1,1 +1,25 @@
-////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+
+ "/banlist" désigne une liste recensant les utilisateurs actuellement bannis d'une communauté en ligne,
+offrant aux modérateurs et administrateurs un moyen de suivre et de maintenir la sécurité et l'intégrité de l'environnement interactif.
+
+la command ouvrira un Embed avec un menu deroulant qui permet de unban directement un membre sans avoir a rechercher 
+l'ID du membre banni
+
+/////////////////////////////////////////////////////////////////////////
+name:"banlist",
+description: "Permet de voir les membres ban du serveur!",
+permission: Discord.PermissionFlagsBits.BanMembers,
+utilisation: "/banlist",
+dm: false,
+category: ":shield: Administration",
+options: [],
+
+
+/////////////////////////////////////////////////////////////////////////
+
+Command: 
+
+- /banlist
+
+/////////////////////////////////////////////////////////////////////////
